@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MyViewAndViews</string>
+    <string name="content_text">SMK Telkom Sandhy Putra Malang | SISWA</string>
+    <string name="content_specs_display">Salah satu siswa kelas XI SMK Telkom Malang, Mengikuti Organisasi MPK, Suborganisasi Comet, gemar membaca dan menyanyi merupakan seorang siswa yang memiliki cita cita menjadi seorang progammer</string>
+    <string name="content_specs_size">TK Sonoageng 2 | SDN 3 Sumberkepuh | SMPN 1 Tanjunganom</string>
+    <string name="content_specs_battery">2,770 mAh battery\n
+       Standby time (LTE): up to 19 days\n
+       Talk time (3g/WCDMA): up to 26 hours\n
+       Internet use time (Wi-Fi): up to 13 hours\n
+       Internet use time (LTE): up to 13 hours\nVideo playback: up to 13 hours\n
+       Audio playback (via headset): up to 110 hours\n
+       Fast charging: up to 7 hours of use from only 15 minutes of charging</string>
+</resources>
